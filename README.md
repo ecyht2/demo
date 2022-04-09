@@ -1,2 +1,2 @@
 # Description
-git tutorial workshope
+git tutorial workshop
